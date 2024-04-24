@@ -8,7 +8,7 @@ public class BoletimEstudantil {
         else if (media == 6)
             System.out.println("Prova de Minerva");
         else
-            System.out.println("Aprovado com certeza!");
+            System.out.println("Aprovado !");
 
     }
 }
