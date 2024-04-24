@@ -7,7 +7,7 @@ public class MinhaClasse {
         // Funcionamento dos metodos publicos, repare na questão da chama estatica
         String nomeCompleto = nomeCompleto("Rafael", "Adolfo");
         System.out.println(nomeCompleto);
-        // observando a melhora na questão da identdação!
+        // observando a melhora na questão da identação!
         int media = 8;
         if (media < 6)
             System.out.println("Reprovado!");
