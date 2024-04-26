@@ -8,7 +8,7 @@ O repositório em questão serve como uma forma de guardar os conhecimentos send
 - [X] Tipos e variáveis
 - [X] Operadores
 - [X] Métodos
-- [ ] Escopo
+- [X] Escopo
 - [ ] Palavras reservadas
 - [ ] Java Docs
 - [ ] Terminal e argumentos
