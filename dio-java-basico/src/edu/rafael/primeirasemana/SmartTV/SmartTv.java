@@ -24,14 +24,9 @@ public class SmartTv {
         System.out.println("Voulume diminuido para: " + volume);
     }
 
-    public void mudarCanalCima() {
-        canal++;
-        System.out.println("Canal atual: " + canal);
-    }
-
-    public void mudarCanalBaixo() {
-        if (canal > 1) {
-            canal--;
+    public void mudarCanal(int numero) {
+        if (numero > 1) {
+            canal = numero;
         }
         System.out.println("Canal atual: " + canal);
     }

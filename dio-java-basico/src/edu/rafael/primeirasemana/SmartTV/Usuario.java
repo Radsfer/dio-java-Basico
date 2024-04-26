@@ -15,9 +15,8 @@ public class Usuario {
         for (int i = 0; i < 25; i++) {
             televisao.diminuirVolume();
         }
-        televisao.mudarCanalCima();
-        televisao.mudarCanalBaixo();
-        televisao.mudarCanalBaixo();
+        televisao.mudarCanal(13);
+        televisao.mudarCanal(0);
         televisao.ligaDesliga();
 
     }
