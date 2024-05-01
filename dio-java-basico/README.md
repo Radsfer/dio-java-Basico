@@ -9,6 +9,6 @@ O repositório em questão serve como uma forma de guardar os conhecimentos send
 - [X] Operadores
 - [X] Métodos
 - [X] Escopo
-- [ ] Palavras reservadas
-- [ ] Java Docs
-- [ ] Terminal e argumentos
+- [X] Palavras reservadas
+- [X] Java Docs
+- [X] Terminal e argumentos
